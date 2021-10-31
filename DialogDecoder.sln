@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogDecoder", "DialogDecoder\DialogDecoder.csproj", "{F654C15C-97F7-46AB-AFC2-D49F8170769D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F654C15C-97F7-46AB-AFC2-D49F8170769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F654C15C-97F7-46AB-AFC2-D49F8170769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F654C15C-97F7-46AB-AFC2-D49F8170769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F654C15C-97F7-46AB-AFC2-D49F8170769D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D654E1-22D8-4B23-B0D7-80363A290B01}
+	EndGlobalSection
+EndGlobal
